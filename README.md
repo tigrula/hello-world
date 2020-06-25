@@ -1,2 +1,3 @@
 # hello-world
-Just another responsibility
+Hello everyone
+It`s me, Tigrula
